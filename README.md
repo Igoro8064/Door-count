@@ -52,5 +52,5 @@ Ensure you have the following installed:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or contributions, feel free to reach out at [your-email@example.com] or create an issue on GitHub.
+For any questions or contributions, feel free to reach out by creating an issue on GitHub.
 
